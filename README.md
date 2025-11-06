@@ -30,3 +30,7 @@ The analysis identifies behavioral trends — such as how traders perform during
 ---
 
 ## Project Structure
+
+
+[Open in Google Colab](https://colab.research.google.com/github/ABHisheknikki/trader-sentiment-analysis/blob/main/Trader_Sentiment_Analysis.ipynb)
+
