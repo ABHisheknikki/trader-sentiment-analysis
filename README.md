@@ -32,5 +32,5 @@ The analysis identifies behavioral trends — such as how traders perform during
 ## Project Structure
 
 
-[Open in Google Colab](https://drive.google.com/file/d/1x7D54A3I6pdnb00rbmXus6m-YwcS4XR-/view?usp=sharing)
+[Open in Google Colab](https://colab.research.google.com/drive/1x7D54A3I6pdnb00rbmXus6m-YwcS4XR-)
 
